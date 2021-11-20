@@ -64,3 +64,6 @@ Write a function that takes in an array of at least two integers and that return
  1. All studetns must receive at least one reward.
  2. Any given students must receive strictly more rewards than an adjacent students( a student immediately to the left or to the right) with a lower score and must receive strictly fewer rewards than an adjacent student with a higher score. 
  Understand the second rule is important. 
+
+ ### Day 14(11/19/2021):
+ Redo minimum reward question.
